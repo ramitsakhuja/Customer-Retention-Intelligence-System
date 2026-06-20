@@ -188,15 +188,11 @@ Although Random Forest achieved the highest overall accuracy, XGBoost + SMOTE ac
 
 ## Top Churn Drivers
 
-Feature importance analysis identified the following influential features:
-
 1. Payment Method (Electronic Check)
 2. Internet Service (Fiber Optic)
 3. Internet Service (No Internet Service)
 4. Contract Type (Two-Year Contract)
 5. Paperless Billing
-
-These insights help businesses focus retention efforts on high-risk customer segments.
 
 ---
 
